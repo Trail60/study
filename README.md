@@ -1,32 +1,4 @@
 
- studI
-
-
-                    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+there are changes made to study
 
 
