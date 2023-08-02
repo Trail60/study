@@ -1,2 +1,2 @@
 # study
-This is a Readme file
+This is a Readme file editied
